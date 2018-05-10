@@ -1,6 +1,8 @@
 # hello-world
-healthcare software developer
+Healthcare software developer
 hi guyz
-am michael tindo holder of bachelor degree in health informatics
-i like programming, being competent in java and php
-system analyst and information auditor 
+am Michael Tindo holder of bachelor degree in health informatics
+i like programming, being competent in java and php,
+system analyst and health information officer..
+Information analysis and dissemination for all health-related data 
+primary epedimeiologist for modern technology
